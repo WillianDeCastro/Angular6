@@ -8,6 +8,8 @@ import { HomeComponent } from './home/home.component';
 import { SobreComponent } from './sobre/sobre.component';
 import { ContatoComponent } from './contato/contato.component';
 import { MinhasRotas } from './app.route';
+import { CustomersComponent } from './customers/customers.component';
+import { CustomerService } from './customers/customer.service';
 
 @NgModule({
   declarations: [
@@ -15,13 +17,14 @@ import { MinhasRotas } from './app.route';
     HeaderComponent,
     HomeComponent,
     SobreComponent,
-    ContatoComponent
+    ContatoComponent,
+    CustomersComponent
   ],
   imports: [
     BrowserModule,
     RouterModule.forRoot(MinhasRotas)
   ],
-  providers: [],
+  providers: [CustomerService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
