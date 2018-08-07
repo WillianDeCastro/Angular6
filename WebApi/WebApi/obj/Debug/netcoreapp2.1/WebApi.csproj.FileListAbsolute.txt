@@ -1,0 +1,14 @@
+C:\temp\Estudos\Angular2\AngularApagar\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.csprojAssemblyReference.cache
+C:\temp\Estudos\Angular2\AngularApagar\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.csproj.CoreCompileInputs.cache
+C:\temp\Estudos\Angular2\AngularApagar\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.deps.json
+C:\temp\Estudos\Angular2\AngularApagar\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.json
+C:\temp\Estudos\Angular2\AngularApagar\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.dev.json
+C:\temp\Estudos\Angular2\AngularApagar\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.dll
+C:\temp\Estudos\Angular2\AngularApagar\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.pdb
+C:\temp\Estudos\Angular2\AngularApagar\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cache
+C:\temp\Estudos\Angular2\AngularApagar\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cs
+C:\temp\Estudos\Angular2\AngularApagar\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfoInputs.cache
+C:\temp\Estudos\Angular2\AngularApagar\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfo.cs
+C:\temp\Estudos\Angular2\AngularApagar\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\temp\Estudos\Angular2\AngularApagar\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.dll
+C:\temp\Estudos\Angular2\AngularApagar\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.pdb

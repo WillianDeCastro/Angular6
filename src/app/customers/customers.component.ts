@@ -11,10 +11,14 @@ export class CustomersComponent implements OnInit {
 
   myCustomers: ICustomer[]
 
+
   constructor(private myCustomerService: CustomerService) { }
 
   ngOnInit() {
-    this.myCustomers = this.myCustomerService.GetAllCustomers();
+    
+    this.myCustomerService.GetAllCustomers().subscribe((data: ICustomer[]) => this.myCustomers = data
+    );
+
   }
 
 }

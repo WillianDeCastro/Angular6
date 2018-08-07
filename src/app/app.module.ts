@@ -10,6 +10,7 @@ import { ContatoComponent } from './contato/contato.component';
 import { MinhasRotas } from './app.route';
 import { CustomersComponent } from './customers/customers.component';
 import { CustomerService } from './customers/customer.service';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -22,6 +23,7 @@ import { CustomerService } from './customers/customer.service';
   ],
   imports: [
     BrowserModule,
+    HttpClientModule,
     RouterModule.forRoot(MinhasRotas)
   ],
   providers: [CustomerService],

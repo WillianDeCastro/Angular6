@@ -1,18 +1,17 @@
 import { ICustomer } from "./customer.model";
+import { Injectable } from '@angular/core';
+import { HttpClient } from '@angular/common/http';
 
-
+@Injectable()
 export class CustomerService {
 
-    myCustomers: ICustomer[] = [
-        { Id: 1, Name: "Cust1" },
-        { Id: 2, Name: "Cust2" },
-        { Id: 3, Name: "Cust3" },
-        { Id: 4, Name: "Cust4" },
-        { Id: 5, Name: "Cust5" }
-    ]
 
-    GetAllCustomers(): ICustomer[] {
-        return this.myCustomers;
+    constructor(private meuHttp: HttpClient) { }
+
+    myCustomers: ICustomer[] = []
+
+    GetAllCustomers() {
+        return this.meuHttp.get("http://localhost:50406/api/customer");
     }
 
 }
