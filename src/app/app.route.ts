@@ -6,8 +6,8 @@ import { CustomersComponent } from './customers/customers.component';
 
 export const MinhasRotas: Routes = [
     { path: '', component: HomeComponent },
-    { path: 'sobre', component: SobreComponent },
-    { path: 'contato', component: ContatoComponent },
+    { path: 'sobre/:Nome', component: SobreComponent },
+    { path: 'contato/:telefone', component: ContatoComponent },
     { path: 'clientes', component: CustomersComponent }
 
 ];

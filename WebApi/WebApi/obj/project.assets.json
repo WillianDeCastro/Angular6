@@ -12218,23 +12218,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\5A_PC1\\.nuget\\packages\\": {},
+    "C:\\Users\\oilha\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\temp\\Estudos\\Angular2\\AngularApagar\\WebApi\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "c:\\Users\\oilha\\Downloads\\BOOKS\\BOOKS\\GITlearn\\Angular6\\WebApi\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\temp\\Estudos\\Angular2\\AngularApagar\\WebApi\\WebApi\\WebApi.csproj",
-      "packagesPath": "C:\\Users\\5A_PC1\\.nuget\\packages\\",
-      "outputPath": "C:\\temp\\Estudos\\Angular2\\AngularApagar\\WebApi\\WebApi\\obj\\",
+      "projectPath": "c:\\Users\\oilha\\Downloads\\BOOKS\\BOOKS\\GITlearn\\Angular6\\WebApi\\WebApi\\WebApi.csproj",
+      "packagesPath": "C:\\Users\\oilha\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\oilha\\Downloads\\BOOKS\\BOOKS\\GITlearn\\Angular6\\WebApi\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\5A_PC1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\oilha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12242,8 +12242,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://repository.amil.com.br/repository/nuget-group/": {},
-        "https://www.nuget.org/api/v2/": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {
